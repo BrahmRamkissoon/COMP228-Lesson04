@@ -2,7 +2,7 @@ package com.ramkissoon.brahm;
 
 import java.util.Scanner;
 
-public class Program {
+public class Lesson04Test {
 
 	public static void main(String[] args) {
 		
