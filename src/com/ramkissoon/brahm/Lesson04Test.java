@@ -1,3 +1,4 @@
+
 package com.ramkissoon.brahm;
 
 import java.util.Scanner;
@@ -24,7 +25,7 @@ public class Lesson04Test {
 				SetAge(person);
 				break;
 			case "2":
-				System.out.println("we are in the case 2");
+				System.out.println("Exiting...");
 				break;			
 			}	
 			
@@ -46,7 +47,5 @@ public class Lesson04Test {
 			}
 										
 		}
-	}
-	
-	
+	}	
 }
